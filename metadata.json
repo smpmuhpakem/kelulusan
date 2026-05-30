@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pengumuman Kelulusan",
+  "description": "Aplikasi pengumuman kelulusan siswa modern dengan data dari Google Sheets. Masukkan NISN untuk melihat status kelulusan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
